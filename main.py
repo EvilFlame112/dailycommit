@@ -1,6 +1,6 @@
 from datetime import datetime
 
-filename = 'example.txt'
+filename = 'dokidoki.txt'
 
 with open(filename, 'a') as f:
     now = datetime.now()
